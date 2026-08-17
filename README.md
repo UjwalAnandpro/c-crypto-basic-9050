@@ -1,8 +1,3 @@
 # c-crypto-basic-9050
 
-AI README generation failed.
-
-## Main File
-```
-src/main.c
-```
+This repository contains boilerplate code for c-crypto-basic-9050.
